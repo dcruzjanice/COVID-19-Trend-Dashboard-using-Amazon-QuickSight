@@ -1,4 +1,4 @@
-# COVID-19 Trend Dashboard-using-Amazon-QuickSight
+# COVID-19 Trend Dashboard using Amazon QuickSight
 
 ## Overview
 
