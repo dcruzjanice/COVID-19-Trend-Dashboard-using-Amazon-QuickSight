@@ -16,10 +16,10 @@ This project is a COVID-19 Trend Dashboard built with AWS QuickSight, providing 
 
 5. **Vaccination Trends**: The second sheet of the dashboard provides insights into vaccination trends, including the percentage of people fully vaccinated compared to the total population.
 
-**Cases and Deaths**
-![Screenshot 2024-01-19 224126](https://github.com/dcruzjanice/Dashboard-using-Amazon-QuickSight/assets/65847968/89ac34ff-e48f-47d9-8f0f-a30abbdc561e)
+## Cases and Deaths
+![Screenshot 2024-01-19 224630](https://github.com/dcruzjanice/Dashboard-using-Amazon-QuickSight/assets/65847968/06c50197-5e7c-4b25-a269-335654be6378)
 ![Screenshot 2024-01-19 224151](https://github.com/dcruzjanice/Dashboard-using-Amazon-QuickSight/assets/65847968/02784d4a-eda4-42ab-b094-47830eb47b81)
 ![Screenshot 2024-01-19 224207](https://github.com/dcruzjanice/Dashboard-using-Amazon-QuickSight/assets/65847968/070df803-069e-45ff-b342-70d0756831e9)
 
-**Vaccination Trend**
+## Vaccination Trend
 ![Screenshot 2024-01-19 224055](https://github.com/dcruzjanice/Dashboard-using-Amazon-QuickSight/assets/65847968/de936ba6-3f02-4fef-8b16-c66e40f2e254)
